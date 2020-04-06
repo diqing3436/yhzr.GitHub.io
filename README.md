@@ -1,1 +1,1 @@
-# yhzr.GitHub.io
+# yhzr.github.io
